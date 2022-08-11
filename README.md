@@ -5,7 +5,7 @@
 - email:    bessdj@gmail.com
 - link:     https://linkedin.com/in/aleksey-blokhin
 
-You Are Welocome to my World...
+You Are Welcome to My World...
 
 <!---
 Alefair/Alefair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
