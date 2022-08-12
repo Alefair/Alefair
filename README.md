@@ -4,6 +4,7 @@
 - telegram: @alefair
 - email:    bessdj@gmail.com
 - link:     https://linkedin.com/in/aleksey-blokhin
+- nugets:   https://www.nuget.org/profiles/Alefair
 
 You Are Welcome to My World...
 
