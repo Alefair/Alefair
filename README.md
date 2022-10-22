@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alefair
-- 👀 I’m interested in SAP Scripting, RPA, UiPAth, Primo, C#, Python, DS, AI, ML, Html, CSS, Javascript and etc...
+- 👀 I’m interested in SAP Scripting, RPA, Uipath, Primo, C#, Python, DS, AI, ML, Html, CSS, Javascript and etc...
 - 📫 How to reach me :
 - telegram: [@alefair](https://t.me/alefair)
 - email:    bessdj@gmail.com
